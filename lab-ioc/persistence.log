@@ -1,0 +1,25 @@
+2025.11.17 17:34:48: There was an error while loading the teachers datajava.io.FileNotFoundException: guice-teachers.dat (Nie można odnaleźć określonego pliku)
+2025.11.17 17:34:48: There was an error while loading the class datajava.io.FileNotFoundException: guice-classes.dat (Nie można odnaleźć określonego pliku)
+2025.11.17 17:34:48: Saved teachers to guice-teachers.dat
+2025.11.17 17:34:48: Saved teachers to guice-teachers.dat
+2025.11.17 17:34:48: Added Thomas Anderson Teacher
+2025.11.17 17:34:48: Added Thomas Anderson Teacher
+2025.11.17 17:34:48: Saved teachers to guice-teachers.dat
+2025.11.17 17:34:48: Saved teachers to guice-teachers.dat
+2025.11.17 17:34:48: Added Han Solo Teacher
+2025.11.17 17:34:48: Added Han Solo Teacher
+2025.11.17 17:34:48: Saved teachers to guice-teachers.dat
+2025.11.17 17:34:48: Saved teachers to guice-teachers.dat
+2025.11.17 17:34:48: Added Princess Leia Teacher
+2025.11.17 17:34:48: Added Princess Leia Teacher
+2025.11.17 17:34:48: Saved teachers to guice-teachers.dat
+2025.11.17 17:34:48: Saved teachers to guice-teachers.dat
+2025.11.17 17:34:48: Added Severus Snape Teacher
+2025.11.17 17:34:48: Added Severus Snape Teacher
+2025.11.17 17:34:48: Saved teachers to guice-teachers.dat
+2025.11.17 17:34:48: Saved teachers to guice-teachers.dat
+2025.11.17 17:34:48: Added Dolores Umbridge Teacher
+2025.11.17 17:34:48: Added Dolores Umbridge Teacher
+2025.11.17 17:44:08: Loaded teachers from guice-teachers.dat
+2025.11.17 17:44:08: There was an error while loading the class datajava.io.FileNotFoundException: guice-classes.dat (Nie można odnaleźć określonego pliku)
+2025.11.17 18:01:14: Added class 1A, profile humane
